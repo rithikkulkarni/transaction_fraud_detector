@@ -2,7 +2,7 @@
 This ML project performs Binary Classification to detect whether a financial transaction is fraudulent.
 
 This project is a Fraud Detection Tool designed to classify transactions as either fraudulent or non-fraudulent using Python's Google Colab environment. The tool leverages the NumPy and Pandas libraries for data manipulation and preprocessing, and applies a logistic regression model for binary classification.
-Key Features
+Key Features:
 
     Dataset Handling:
         The tool processes transactional data with features such as transaction amounts, customer details, and merchant characteristics.
