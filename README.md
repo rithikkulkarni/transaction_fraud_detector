@@ -28,7 +28,7 @@ Key Features:
         Fully compatible with Google Colab, allowing users to easily run and modify the tool in the cloud.
         Includes visualization features (e.g., fraud vs. non-fraud distributions) using Matplotlib and Seaborn.
 
-How It Works
+How It Works:
 
     Data Loading and Exploration:
         Load a transactional dataset in CSV format using Pandas.
